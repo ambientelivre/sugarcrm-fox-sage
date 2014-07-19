@@ -1,0 +1,13 @@
+﻿Configuração consumo webservice
+
+1 – Mudar valor das seguintes variáveis no arquivo <diretório raiz SugarCRM>/webservices/config.php:
+	$host(linha 4) = Ip ou hostname do servidor onde se encontra o banco de dados do sugarCRM;
+	$user(linha 5) = User name do usuário criado no bando de dados do sugarCRM;
+	$password(linha 6) = Senha do usuário criado no banco de dado do sugarCRM;
+	$db(linha 7) = Nome do banco de dados criado para o sugarCRM;
+
+2 – Incluir nas configurações de crontab do servidor para executar as seguintes urls em um intervalo de tempo que o cliente achar necessário:
+	<diretório raiz SugarCRM>/webservices/index.php?operacao=RetornarClientes
+	<diretório raiz SugarCRM>/webservices/index.php?operacao=RetornarOrcamentos
+	<diretório raiz SugarCRM>/webservices/index.php?operacao=RetornarRamosAtividades
+	<diretório raiz SugarCRM>/webservices/index.php?operacao=RetornarUsuarios

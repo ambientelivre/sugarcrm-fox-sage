@@ -1,0 +1,28 @@
+<?php
+// created: 2013-07-03 09:17:54
+$mod_strings = array (
+  'LBL_ASSIGNED_TO_ID' => 'Atribuído a',
+  'LBL_ASSIGNED_TO_NAME' => 'Atribuído a',
+  'LBL_NAME' => 'NOme do "Job "',
+  'LBL_SCHEDULER_ID' => 'Agendador',
+  'LBL_STATUS' => 'Job Status',
+  'LBL_RESOLUTION' => 'Resultado',
+  'LBL_MESSAGE' => 'Mensagens',
+  'LBL_DATA' => 'Data do "Job "',
+  'LBL_REQUEUE' => 'Repetir em caso de falha',
+  'LBL_RETRY_COUNT' => 'Máximo de tentativas',
+  'LBL_FAIL_COUNT' => 'Falhas',
+  'LBL_INTERVAL' => 'Intervalo m;inimo entre tentativas',
+  'LBL_CLIENT' => 'Cliente',
+  'LBL_PERCENT' => 'Percentual completo',
+  'ERR_CALL' => 'Impossibilitado de chamar funação %',
+  'ERR_CURL' => 'No CURL - não podem executar tarefas de URL',
+  'ERR_FAILED' => 'Falha inexperada, favor checar logs PHP e sugarcrm.log',
+  'ERR_PHP' => '%s [%d]: %s in %s on line %d',
+  'ERR_NOUSER' => 'Nenhum ID de usuário especificado',
+  'ERR_NOSUCHUSER' => 'ID de usuário não localizado',
+  'ERR_JOBTYPE' => 'Tipo de &#39;job"desconhecido',
+  'ERR_TIMEOUT' => 'Falha forçada Timeout',
+  'ERR_JOB_FAILED_VERBOSE' => 'Job %1$s (%2$s) failed in CRON run',
+  'LBL_EXECUTE_TIME' => 'Tempo de Execução',
+);

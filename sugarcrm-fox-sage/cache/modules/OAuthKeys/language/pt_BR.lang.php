@@ -1,0 +1,28 @@
+<?php
+// created: 2013-07-03 09:17:56
+$mod_strings = array (
+  'LBL_LIST_NAME' => 'Nome da Chave',
+  'LBL_ID' => 'ID',
+  'LBL_DATE_ENTERED' => 'Data de Criação',
+  'LBL_DATE_MODIFIED' => 'Data de Modificação',
+  'LBL_MODIFIED' => 'Modificado Por',
+  'LBL_MODIFIED_ID' => 'Id de Modificado Por',
+  'LBL_MODIFIED_NAME' => 'Modificado Por Nome',
+  'LBL_CREATED' => 'Criado por',
+  'LBL_CREATED_ID' => 'Criado Por Id',
+  'LBL_DESCRIPTION' => 'Descrição',
+  'LBL_DELETED' => 'Deletado',
+  'LBL_NAME' => 'Chave do Consumidor',
+  'LBL_CREATED_USER' => 'Criado pelo Usuário',
+  'LBL_MODIFIED_USER' => 'Modificado pelo Usuário',
+  'LBL_ASSIGNED_TO_ID' => 'Id Usuário Atribuído',
+  'LBL_ASSIGNED_TO_NAME' => 'Usuário',
+  'LBL_CONSKEY' => 'Chave do Consumidor',
+  'LBL_CONSSECRET' => 'Segredo do Consumidor',
+  'LBL_LIST_FORM_TITLE' => 'OAuth Keys',
+  'LBL_MODULE_NAME' => 'OAuth Keys',
+  'LBL_MODULE_TITLE' => 'OAuth Keys',
+  'LNK_NEW_RECORD' => 'Criar Chave OAUth',
+  'LNK_LIST' => 'Ver Chaves',
+  'LBL_TOKENS' => 'Tokens',
+);
